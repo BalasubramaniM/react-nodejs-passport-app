@@ -2,7 +2,7 @@
 
 Integrate Google sign-in for registration or login purpose in your React application (bootstrapped using [Create React App](https://github.com/facebookincubator/create-react-app)).
 
-Node.js server application for this client can be found @ [React-Node.js-Passport-Server](https://github.com/balasubramanim/react-nodejs-passport-server). Install the server app after completing below steps.
+#### Note: Node.js server application for this client can be found @ [React-Node.js-Passport-Server](https://github.com/balasubramanim/react-nodejs-passport-server). Install the server app after completing below steps.
 
 ### Prerequisites
 
@@ -36,7 +36,7 @@ npm start
 
 ## Getting Started
 
-Your app will be available at port 3000. Visit http://localhost:3000 to see your React application. Click Google sign-in button and check how the authentication happens.
+Your app will be available at port 3000. Visit [http://localhost:3000](http://localhost:3000) to see your React application. Click Google sign-in button and check how the authentication happens.
 
 ## Medium Tutorial
 
